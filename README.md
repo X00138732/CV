@@ -1,3 +1,6 @@
+The CV Page is as the index.html
+As you can see below I have included the reference to the bootstrap navigation template.
+
 # [Start Bootstrap - Simple Sidebar](https://startbootstrap.com/template/simple-sidebar/)
 
 [Simple Sidebar](https://startbootstrap.com/template/simple-sidebar/) is an off canvas sidebar navigation template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
